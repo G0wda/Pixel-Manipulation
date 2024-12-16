@@ -41,9 +41,9 @@ def decrypt_image(input_path, output_path, key=None):
     print("Image decrypted successfully!")
 
 # File paths
-input_image = r"/home/gowda/PRODIGY_CS-02/input.jpg"
-encrypted_image = r"/home/gowda/PRODIGY_CS-02/encrypted_image.jpg"
-decrypted_image = r"/home/gowda/PRODIGY_CS-02/decrypted_image.jpg"
+input_image = r"/home/gowda/Pixel-Manipulation/input.jpg"
+encrypted_image = r"/home/gowda/Pixel-Manipulation/encrypted_image.jpg"
+decrypted_image = r"/home/gowda/Pixel-Manipulation/decrypted_image.jpg"
 
 # Encrypt the image
 encrypt_image(input_image, encrypted_image)
